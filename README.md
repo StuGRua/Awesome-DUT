@@ -6,7 +6,7 @@
 
   ---
 
-# 公共课部分
+# [公共课部分](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)
 ## 上机实验类
 - [工数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/工科数学分析上机实验)  
 

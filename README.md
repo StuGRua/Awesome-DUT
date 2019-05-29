@@ -25,8 +25,8 @@
  - [程序设计B](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/程序设计B)
 
  ## 实验类  
- - [电工（少学时）](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/电工实验)
-   ---
+ - [电工少学时](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/电工实验)  
+---
 
 # [选修课](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses)
 - [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses/recommend)  

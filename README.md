@@ -32,9 +32,13 @@
 - [艺术与审美](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/艺术与审美)
 
 # [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/files/subject__changes\转专业)
+
 # [考研类]()
+- 数学
 
 # [生活类]()
+- IPV6高速上网指南（不耗费lingshui流量）
+
 
 # 工具
 - [毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用)  

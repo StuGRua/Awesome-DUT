@@ -1,12 +1,8 @@
 # DUT_Rounder
 
-## 适用于大连理工的生存指南索引计划（公共向）  
-- **作者信息来源有限，请有相关信息的同学直接push**   
-- [公共课](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses)的条目将被维护
-- [专业课](https://github.com/StuGRua/DUT_Rounder/tree/master/specialized_courses)的push会被接受但不会被维护（除CS和CE，其他专业不会主动寻找资源）  
-- [工具类](https://github.com/StuGRua/DUT_Rounder/tree/master/tools)受欢迎，自己有repository的同学提供链接和信息即可（将收入索引中，而不是归入本repository 
-- 其他类别不定时更新（有资源即更新） 
-- 目前正在收录：大工考试生活群 群内资料
+## 适用于大连理工的生存指南索引计划：包括但不仅限于报告、实验、小工具等。
+
+- 作者正在试图建立基本可用的索引列表，请毫不犹豫地请使用Pull Request补充你知道的其他项目。
 
   ---
 
@@ -43,6 +39,14 @@
 # 工具
 - [毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用)  
 ---
+## 写在后面的话
+
+- **作者信息来源有限，请有相关信息的同学直接push**   
+- [公共课](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses)的条目将被维护
+- [专业课](https://github.com/StuGRua/DUT_Rounder/tree/master/specialized_courses)的push会被接受但不会被维护（除CS和CE，其他专业不会主动寻找资源）  
+- [工具类](https://github.com/StuGRua/DUT_Rounder/tree/master/tools)受欢迎，自己有repository的同学提供链接和信息即可（将收入索引中，而不是归入本repository 
+- 其他类别不定时更新（有资源即更新） 
+- 目前正在收录：大工考试生活群 群内资料
 ## 联系方式
 - 邮箱:stug_iii@foxmail.com
 - QQ:1281634486
@@ -50,5 +54,8 @@
 - 大工考试生活群 257692443
 - [Steve Wong](https://github.com/stevewongv)
 
+
 ### 项目目前由个人维护，请有意合作的同学联系我  
 ## 如有版权问题请联系本人删除
+- 请遵守以下项目使用的开源许可证或知识共享协议，你不应该使用没有给出许可证的项目。此索引本身是Public Domain的。  
+- 请不要试图添加商业项目或商业信息

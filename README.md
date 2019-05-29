@@ -10,4 +10,13 @@
 ## 公共课部分
 
  1. 工数上机实验报告
- [2019运载](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/工科数学分析上机实验)
+ [2019工数](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/工科数学分析上机实验)  
+
+ 2. 线性代数上机实验报告
+ [2019线性代数](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/线性代数上机实验)
+
+
+
+# 联系方式
+- 邮箱:stug_iii@foxmail.com
+- QQ:1281634486

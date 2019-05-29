@@ -10,7 +10,7 @@
 
   ---
 
-# [公共课部分](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses)
+# 公共课部分
 ## 上机实验类
 - [工数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/工科数学分析上机实验)  
 
@@ -28,19 +28,19 @@
  - [电工少学时](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/电工实验)  
 ---
 
-# [选修课](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses)
+# 选修课
 - [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses/recommend)  
 
 - [科技工伦（作业答案）](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses/科技工伦) 
 - [创造性思维与创新方法](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses/创造性思维与创新方法)
 - [艺术与审美](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses/艺术与审美)
 
-
+# [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/subject__changes\转专业)
 # [考研类]()
 
 # [生活类]()
 
-# [工具]()
+# 工具
 - [毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用)  
 ---
 ## 联系方式

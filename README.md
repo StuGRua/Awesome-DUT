@@ -24,7 +24,7 @@
    ---
 
 # [选修课]()
-- [选修选课攻略]() From 大工考试生活群
+- [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses/recommend) From 大工考试生活群
 
 # [考研类]()
 

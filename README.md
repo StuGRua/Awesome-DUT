@@ -21,8 +21,16 @@
 
  ## 实验类  
  1. [电工（少学时）](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/电工实验)
+   ---
 
+# [选修课]()
+- [选修选课攻略]() From 大工考试生活群
 
+# [考研类]()
+
+# [生活类]()
+
+# [工具]()
 
 ---
 ## 联系方式

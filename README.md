@@ -23,7 +23,7 @@
  1. [电工（少学时）](https://github.com/StuGRua/DUT_Rounder/tree/master/public_courses/电工实验)
    ---
 
-# [选修课]()
+# [选修课](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses)
 - [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/elective_courses/recommend) From 大工考试生活群
 
 # [考研类]()
@@ -31,7 +31,7 @@
 # [生活类]()
 
 # [工具]()
-
+- [毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong  
 ---
 ## 联系方式
 - 邮箱:stug_iii@foxmail.com

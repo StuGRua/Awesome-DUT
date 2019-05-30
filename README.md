@@ -8,20 +8,31 @@
 
 # [公共课部分](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)
 ## 上机实验类
-- [工数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/工科数学分析上机实验)  
+- [工数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/上机实验(MATLAB)/工科数学分析上机实验)  
 
- - [线性代数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/线性代数上机实验) 
+ - [线性代数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/上机实验(MATLAB)/线性代数上机实验)
+ - [概率上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/上机实验(MATLAB)/概率上机实验)
+ - [工程数值方法上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/上机实验(MATLAB)/工程数值方法上机实验)
 
 
 
  ## 课程/试卷/答案
  - [大学物理](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86)
- - [工科数学](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6)
-- [程序设计A](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/程序设计A)
- - [程序设计B](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/程序设计B)
+ - [工科数学/高等数学](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/工科数学分析%26高等数学)
+ - [概率统计](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/概率统计)
+ - [线性代数](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/线性代数)
+ - [工程数值方法](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/工程数值方法)
+- [C语言程序设计](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/C语言程序设计)
+- [工程制图](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/工程制图)
+- [形势与政策](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/形势与政策)
+- [电工](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/电工)
+- [政治(近代史&毛概&马原)](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/政治(近代史%26毛概%26马原))
+
+
 
  ## 实验类  
- - [电工少学时](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/电工实验)  
+ - [电工少学时](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/电工实验) 
+ - [大学物理实验](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/大学物理实验) 
 ---
 
 # 选修课
@@ -30,13 +41,20 @@
 - [科技工伦（作业答案）](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/科技工伦) 
 - [创造性思维与创新方法](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/创造性思维与创新方法)
 - [艺术与审美](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/艺术与审美)
+- [更多选修课程](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses)
 
+# 专业课
+- [数据结构](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）)
+- [操作系统](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/操作系统)
 # [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/files/subject__changes\转专业)
 
-# [考研类]()
-- 数学
+# 考研类
 
-# [生活类]()
+
+# [生活类](https://github.com/StuGRua/DUT_Rounder/tree/master/files/living)
+- 大工信纸
+- 钢琴版校歌
+- 开网指南
 - IPV6高速上网指南（不耗费lingshui流量）
 
 

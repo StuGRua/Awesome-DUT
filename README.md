@@ -1,3 +1,4 @@
+
 # DUT_Rounder
 
 ## 适用于大连理工的生存指南索引计划：包括但不限于课件、报告、实验、小工具等。
@@ -62,11 +63,10 @@
 - [毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用)  
 ---
 ## 写在后面的话
-- **作者正在试图建立基本可用的索引列表，请毫不犹豫地请使用Pull Request补充你知道的其他项目。**
-- **作者信息来源有限，请有相关信息的同学直接push**   
+- **作者正在试图建立基本可用的索引列表，请毫不犹豫地请使用Pull Request补充你知道的其他项目。**  
 - [公共课](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)的条目将被维护
-- [专业课](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses)的push会被接受但不会被维护（除CS和CE，其他专业不会主动寻找资源）  
-- [工具类](https://github.com/StuGRua/DUT_Rounder/tree/master/files/tools)受欢迎，自己有repository的同学提供链接和信息即可（将收入索引中，而不是归入本repository 
+- [专业课](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses)的条目会被接受但不会被维护（除CS和CE，其他专业不会主动寻找资源）  
+- [工具类](https://github.com/StuGRua/DUT_Rounder/tree/master/files/tools)受欢迎，自己有repository的同学提供链接和信息即可（将收入索引中，而不是归入本repository） 
 - 其他类别不定时更新（有资源即更新） 
 - 目前正在收录：大工考试生活群 群内资料
 ## 联系方式

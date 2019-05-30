@@ -36,7 +36,8 @@
 ---
 
 # 选修课
->- [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/recommend)  
+>- [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/recommend) 
+>- [经济学原理](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/经济学原理) 
 >- [科技工伦（作业答案）](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/科技工伦) 
 >- [创造性思维与创新方法](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/创造性思维与创新方法)
 >- [艺术与审美](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/艺术与审美)  

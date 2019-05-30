@@ -35,16 +35,16 @@
 >>- [大学物理实验](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/大学物理实验) 
 ---
 
-># 选修课
->>- [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/recommend)  
->>- [科技工伦（作业答案）](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/科技工伦) 
->>- [创造性思维与创新方法](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/创造性思维与创新方法)
->>- [艺术与审美](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/艺术与审美)  
->- **[更多选修课程](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses)** 
+# 选修课
+>- [选修选课攻略](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/recommend)  
+>- [科技工伦（作业答案）](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/科技工伦) 
+>- [创造性思维与创新方法](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/创造性思维与创新方法)
+>- [艺术与审美](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/艺术与审美)  
+- **[更多选修课程](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses)** 
 
-># 专业课
->>- [数据结构](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）)
->>- [操作系统](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/操作系统)
+# 专业课
+>- [数据结构](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）)
+>- [操作系统](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/操作系统)
 # [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/files/subject__changes\转专业)
 
 # 考研类

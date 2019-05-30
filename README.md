@@ -52,6 +52,7 @@
 
 # [生活类](https://github.com/StuGRua/DUT_Rounder/tree/master/files/living)
 - 大工信纸
+- 大工logo(.png)
 - 钢琴版校歌
 - 开网指南
 - >IPV6高速上网指南（不耗费lingshui流量）
@@ -60,6 +61,7 @@
 
 # 工具
 - [毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用)  
+- [慕课下载器](https://github.com/StuGRua/DUT_Rounder/tree/master/files/tools)
 ---
 ## 写在后面的话
 - **作者正在试图建立基本可用的索引列表，请毫不犹豫地请使用Pull Request补充你知道的其他项目。**  

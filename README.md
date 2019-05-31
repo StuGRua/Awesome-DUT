@@ -2,7 +2,7 @@
 # DUT_Rounder
 
 ## 适用于大连理工的生存指南索引：包括但不限于课件、报告、实验、小工具等。
-- 食用方法：点击进入索引目录的条目后，进入文件download
+- 食用方法：点击进入索引目录的条目后，进入文件download;移动端请"View all of [README.md](https://github.com/StuGRua/DUT_Rounder/blob/master/README.md)"
 - 目前分类 > 工具/公共课/选修课/专业课/生活类/附言
 
 
@@ -62,7 +62,7 @@
 >- [DUT SE 课程资料](https://github.com/DLUTWangZhiyi/SSDUT-learning-materials#ssdut-learning-materials) [搬运]
 >- [数据结构(DUT SE)](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）) / [DUT SE 数据结构上机(.cpp)](https://github.com/LLLLOREN/Courseworks) [搬运]
 >- [DUT CS 操作系统](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/操作系统)
-# [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/files/subject__changes\转专业)
+# [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/files/subject__changes/转专业)
 
 # 考研类
 

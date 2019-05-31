@@ -83,11 +83,14 @@
 - 其他类别不定时更新（有资源即更新） 
 - 目前正在收录：大工考试生活群 群内资料
 ## 联系方式
+- [StuGRua](https://github.com/StuGRua)
 - 邮箱:stug_iii@foxmail.com
 - QQ:1281634486
 ## 鸣谢
 - 大工考试生活群 257692443
 - [Steve Wong](https://github.com/stevewongv)
+- [DLUTWangZhiyi](https://github.com/DLUTWangZhiyi)
+- [LOREN](https://github.com/LLLLOREN)
 
 
 ### 项目目前由个人维护，请有意合作的同学联系我  

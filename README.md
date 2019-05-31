@@ -3,12 +3,22 @@
 
 ## 适用于大连理工的生存指南索引：包括但不限于课件、报告、实验、小工具等。
 - 食用方法：点击进入索引目录的条目后，进入文件download
-
+- 目前分类 > 工具/公共课/选修课/专业课/生活类/附言
 
 
   ---
 
+
+# 工具
+- [大连理工 毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用) 
+- [超星慕课脚本（JS代码）](https://github.com/LeoChen98/chaoxing) (搬运)
+- [超星慕课脚本（浏览器插件）](https://github.com/bingling001/chaoxing) (搬运)
+
 # [公共课部分](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)
+>## 实验类  
+>> - [电工少学时](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/电工实验) 
+>>- [大学物理实验](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/大学物理实验) 
+
 >## 上机实验类
 >>- [工数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/上机实验(MATLAB)/工科数学分析上机实验)  
  >>- [线性代数上机实验报告](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/上机实验(MATLAB)/线性代数上机实验)
@@ -32,9 +42,7 @@
 
 
 
- >## 实验类  
->> - [电工少学时](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/电工实验) 
->>- [大学物理实验](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/大学物理实验) 
+
 ---
 
 # 选修课
@@ -52,7 +60,6 @@
 
 # 考研类
 
-
 # [生活类](https://github.com/StuGRua/DUT_Rounder/tree/master/files/living)
 - 大工信纸
 - 大工logo(.png)
@@ -62,9 +69,6 @@
   >>[PT江湖(大工的PT站)](https://www.dutpt.com/forum.php)  
   >>[大连理工大学视频直播](http://video.dlut.edu.cn/show)
 
-# 工具
-- [毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用)  
-- [慕课下载器](https://github.com/StuGRua/DUT_Rounder/tree/master/files/tools)
 ---
 ## 写在后面的话
 - **作者正在试图建立基本可用的索引列表，请毫不犹豫地请使用Pull Request补充你知道的其他项目。**  

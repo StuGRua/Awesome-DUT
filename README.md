@@ -13,6 +13,11 @@
 - [大连理工 毕业论文LaTeX模板](https://github.com/stevewongv/DLUT_XeLaTeX_Template_For_Bachelor) From Steve Wong(作者注：非官方版本，谨慎使用) 
 - [超星慕课脚本（JS代码）](https://github.com/LeoChen98/chaoxing) (搬运)
 - [超星慕课脚本（浏览器插件）](https://github.com/bingling001/chaoxing) (搬运)
+- >IPV6高速上网指南（不耗费lingshui流量，但需求网络支持IPV6，实测西山宿舍有线无线均可）  
+  >友情提示：PT站使用请遵守站规
+  >>[大连理工大学视频直播](http://video.dlut.edu.cn/show)  
+  >>[大工PT江湖](https://www.dutpt.com/forum.php)  
+  >>[西工大蒲公英PT](https://npupt.com)
 
 # [公共课部分](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)
 >## 实验类  
@@ -53,9 +58,10 @@
 >- [艺术与审美](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses/艺术与审美)  
 - **[更多选修课程](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses)** 
 
-# 专业课
->- [数据结构](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）)
->- [操作系统](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/操作系统)
+# 专业课 (SE/CS)
+>- [DUT SE 课程资料](https://github.com/DLUTWangZhiyi/SSDUT-learning-materials#ssdut-learning-materials) [搬运]
+>- [数据结构(DUT SE)](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）) / [DUT SE 数据结构上机(.cpp)](https://github.com/LLLLOREN/Courseworks) [搬运]
+>- [DUT CS 操作系统](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/操作系统)
 # [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/files/subject__changes\转专业)
 
 # 考研类
@@ -65,15 +71,14 @@
 - 大工logo(.png)
 - 钢琴版校歌
 - 开网指南
-- >IPV6高速上网指南（不耗费lingshui流量）
-  >>[PT江湖(大工的PT站)](https://www.dutpt.com/forum.php)  
-  >>[大连理工大学视频直播](http://video.dlut.edu.cn/show)
+- 新生攻略
+
 
 ---
 ## 写在后面的话
 - **作者正在试图建立基本可用的索引列表，请毫不犹豫地请使用Pull Request补充你知道的其他项目。**  
-- [公共课](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)的条目将被维护
-- [专业课](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses)的条目会被接受但不会被维护（除CS和CE，其他专业不会主动寻找资源）  
+- [公共课](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)的条目将被接受并维护
+- [专业课](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses)的条目被欢迎但不会被维护（除CS/SE/VE，其他专业不会主动寻找资源）  
 - [工具类](https://github.com/StuGRua/DUT_Rounder/tree/master/files/tools)受欢迎，自己有repository的同学提供链接和信息即可（将收入索引中，而不是归入本repository） 
 - 其他类别不定时更新（有资源即更新） 
 - 目前正在收录：大工考试生活群 群内资料

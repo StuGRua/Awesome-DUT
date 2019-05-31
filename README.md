@@ -23,7 +23,7 @@
  >>- [概率统计](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/概率统计)
  >>- [线性代数](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/线性代数)
  >>- [工程数值方法](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/工程数值方法)
- >>- [复变函数]((https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/复变函数)
+ >>- [复变函数](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/复变函数)
 >>- [C语言程序设计](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/C语言程序设计)
 >>- [工程制图](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/工程制图)
 >>- [形势与政策](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses/形势与政策)

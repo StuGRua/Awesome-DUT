@@ -2,7 +2,9 @@
 # DUT_Rounder
 
 ## 适用于大连理工的生存指南索引：包括但不限于课件、报告、实验、小工具等。
-- 食用方法：点击进入索引目录的条目后，进入文件download;移动端请"View all of [README.md](https://github.com/StuGRua/DUT_Rounder/blob/master/README.md)"
+- 移动端请"View all of [README.md](https://github.com/StuGRua/DUT_Rounder/blob/master/README.md)"
+- 食用方法：点击进入索引目录的条目后，进入文件download
+
 - 目前分类 > 工具/公共课/选修课/专业课/生活类/附言
 
 

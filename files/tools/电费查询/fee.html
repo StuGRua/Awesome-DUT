@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Title Page</title>
+    <title>西山部分宿舍电费查询</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <script>
     let part1 =
         '<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="output"><iframe src="http://bems.dlut.edu.cn/MCWEB/RechargeNotice.aspx?category='
-    let part2 = '&name=西山" frameborder="100" width="100%" height="1000px"></iframe></div>'
+    let part2 = '&name=西山" frameborder="100" width="100%" height="10000px"></iframe></div>'
     $(document).ready(function () {
         $("#confirm").click(function () {
             num = $('#_num').val();
@@ -57,6 +57,7 @@
 
             <div class="well well-lg text-center">
                 <h1>电费查询</h1>
+                <h2>温馨提示，目前只有在校园网环境下有效</h2>
             </div>
 
         </div>
@@ -65,7 +66,7 @@
 
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 text-center">
                 <div class="form-group">
-                    <label for="name">选择列表</label>
+                    <label for="name">选择宿舍</label>
                     <select class="form-control" id="_num">
                         <option>6</option>
                         <option>7</option>
@@ -95,7 +96,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <div class="form-group">
                         <label for="name">其余宿舍编码规则未知，待测（未标注的未知对应规则）</label>
-                        <input type="text" class="form-control" id="_num_an" placeholder="54">
+                        <input type="text" class="form-control" id="_num_an" placeholder="这里是未知的宿舍号码，个人初步推测未正常编码的宿舍是26+你所在的宿舍楼号">
                     </div>
                 </div>
 
@@ -115,7 +116,7 @@
 
 
     <footer class="footer navbar-fixed-bottom ">
-        <div class="container">
+        <div class="container-fluid">
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
                 <ul class="breadcrumb">

@@ -62,8 +62,8 @@
 - **[更多选修课程](https://github.com/StuGRua/DUT_Rounder/tree/master/files/elective_courses)** 
 
 # 专业课 (SE/CS)
->- [DUT SE 课程资料](https://github.com/DLUTWangZhiyi/SSDUT-learning-materials#ssdut-learning-materials) [搬运]
->- [数据结构(DUT SE)](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）) / [DUT SE 数据结构上机(.cpp)](https://github.com/LLLLOREN/Courseworks) [搬运]
+>- [DUT SE 课程资料](https://github.com/DLUTWangZhiyi/SSDUT-learning-materials#ssdut-learning-materials) [授权搬运]
+>- [数据结构(DUT SE)](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/数据结构（软件学院）) / [DUT SE 数据结构上机(.cpp)](https://github.com/LLLLOREN/Courseworks) [授权搬运]
 >- [DUT CS 操作系统](https://github.com/StuGRua/DUT_Rounder/tree/master/files/specialized_courses/CS/操作系统)
 # [转专业/辅修/双学位](https://github.com/StuGRua/DUT_Rounder/tree/master/files/subject__changes/转专业)
 

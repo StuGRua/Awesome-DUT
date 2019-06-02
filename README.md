@@ -20,7 +20,7 @@
   >>[大连理工大学视频直播](http://video.dlut.edu.cn/show)  
   >>[大工PT江湖](https://www.dutpt.com/forum.php)  
   >>[西工大蒲公英PT](https://npupt.com)
-- 电费查询 正在制作,目前仅支持一些宿舍 [源码](https://github.com/StuGRua/DUT_Rounder/tree/master/files/tools/电费查询)
+- [电费查询](http://www.toolman.top/fee.html) 正在制作,目前仅支持一些宿舍 [源码](https://github.com/StuGRua/DUT_Rounder/tree/master/files/tools/电费查询)
 
 # [公共课部分](https://github.com/StuGRua/DUT_Rounder/tree/master/files/public_courses)
 >## 实验类  

@@ -1,5 +1,5 @@
 
-# DUT_Rounder
+# Awesome-DUT
 
 ## 适用于大连理工的生存指南索引：包括但不限于课件、报告、实验、小工具等。
 - 移动端请"View all of [README.md](https://github.com/StuGRua/DUT_Rounder/blob/master/README.md)"
